@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/rocket-chat",
+    "name": "oitde/rocket-chat",
     "description": "Rocket.Chat Notifications channel for Laravel 5.6+",
-    "homepage": "https://github.com/laravel-notification-channels/rocket-chat",
+    "homepage": "https://github.com/oitde/rocket-chat",
     "license": "MIT",
     "keywords": [
         "laravel",
